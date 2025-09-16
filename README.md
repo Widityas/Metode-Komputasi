@@ -1,2 +1,2 @@
-# Metode-Komputas-
+# Metode-Komputasi-
 Repository ini berisi laporan-laporan dari 
